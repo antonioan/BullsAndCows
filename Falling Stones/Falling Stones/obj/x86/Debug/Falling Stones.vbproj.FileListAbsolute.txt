@@ -1,0 +1,19 @@
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\bin\Debug\Falling Stones.exe.config
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\bin\Debug\Falling Stones.exe
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\bin\Debug\Falling Stones.pdb
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\bin\Debug\Falling Stones.xml
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling_Stones.Form1.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling_Stones.Resources.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling Stones.exe
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling Stones.xml
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling Stones.pdb
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling_Stones.FormGameM1.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling_Stones.FormGameM2.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling_Stones.FormOptions.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling_Stones.FormSetCustomSize.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling_Stones.FormSettings.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling_Stones.FormPauseDim.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Falling Stones\Falling Stones\obj\x86\Debug\Falling_Stones.FormPauseMenu.resources

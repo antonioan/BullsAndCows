@@ -1,0 +1,10 @@
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Extensionizer\Extensionizer\bin\Debug\Extensionizer.exe.config
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Extensionizer\Extensionizer\bin\Debug\Extensionizer.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Extensionizer\Extensionizer\bin\Debug\Extensionizer.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Extensionizer\Extensionizer\bin\Debug\Extensionizer.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Extensionizer\Extensionizer\obj\Debug\Extensionizer.Form1.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Extensionizer\Extensionizer\obj\Debug\Extensionizer.Resources.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Extensionizer\Extensionizer\obj\Debug\Extensionizer.vbproj.GenerateResource.Cache
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Extensionizer\Extensionizer\obj\Debug\Extensionizer.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Extensionizer\Extensionizer\obj\Debug\Extensionizer.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Extensionizer\Extensionizer\obj\Debug\Extensionizer.pdb
