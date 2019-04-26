@@ -1,0 +1,15 @@
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\bin\Debug\CoralClock.exe.config
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\bin\Debug\CoralClock.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\bin\Debug\CoralClock.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\bin\Debug\CoralClock.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\Experimenting_Some_Stuff.Form1.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\Experimenting_Some_Stuff.FrmAlarm.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\Experimenting_Some_Stuff.frmNormal.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\Experimenting_Some_Stuff.MainForm.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\Experimenting_Some_Stuff.Resources.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\CoralClock.vbproj.GenerateResource.Cache
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\CoralClock.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\CoralClock.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\CoralClock.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\Experimenting_Some_Stuff.FrmStopper.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\CoralClock\CoralClock\obj\x86\Debug\Experimenting_Some_Stuff.FrmTimer.resources

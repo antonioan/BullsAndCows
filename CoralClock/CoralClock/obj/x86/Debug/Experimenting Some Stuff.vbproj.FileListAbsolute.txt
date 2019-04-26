@@ -1,0 +1,10 @@
+C:\Users\Family\AppData\Local\Temporary Projects\Experimenting Some Stuff\bin\Debug\Experimenting Some Stuff.exe
+C:\Users\Family\AppData\Local\Temporary Projects\Experimenting Some Stuff\bin\Debug\Experimenting Some Stuff.pdb
+C:\Users\Family\AppData\Local\Temporary Projects\Experimenting Some Stuff\bin\Debug\Experimenting Some Stuff.xml
+C:\Users\Family\AppData\Local\Temporary Projects\Experimenting Some Stuff\obj\x86\Debug\Experimenting_Some_Stuff.Form1.resources
+C:\Users\Family\AppData\Local\Temporary Projects\Experimenting Some Stuff\obj\x86\Debug\Experimenting_Some_Stuff.Resources.resources
+C:\Users\Family\AppData\Local\Temporary Projects\Experimenting Some Stuff\obj\x86\Debug\Experimenting Some Stuff.vbproj.GenerateResource.Cache
+C:\Users\Family\AppData\Local\Temporary Projects\Experimenting Some Stuff\obj\x86\Debug\Experimenting Some Stuff.exe
+C:\Users\Family\AppData\Local\Temporary Projects\Experimenting Some Stuff\obj\x86\Debug\Experimenting Some Stuff.xml
+C:\Users\Family\AppData\Local\Temporary Projects\Experimenting Some Stuff\obj\x86\Debug\Experimenting Some Stuff.pdb
+C:\Users\Family\AppData\Local\Temporary Projects\Experimenting Some Stuff\obj\x86\Debug\Experimenting_Some_Stuff.MainForm.resources
