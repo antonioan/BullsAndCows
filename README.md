@@ -30,3 +30,10 @@ Made with VB.NET on Visual Studio 2012, October 2012.
 ### Description
 A top-most small window showing the clock, or a resettable stopper.
 There's an option for alarm, but this was discontinued.
+
+## 04 DeStoor
+Made with VB.NET on Visual Studio 2012, September 2012.
+
+### Description
+Finds the roots of the quadratic formula whose coefficients are given as an input to the program, and shows the steps while doing so.
+
