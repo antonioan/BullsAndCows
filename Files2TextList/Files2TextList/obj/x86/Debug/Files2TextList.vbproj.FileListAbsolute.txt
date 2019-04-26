@@ -1,0 +1,38 @@
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.AddingForm.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.Form1.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.Resources.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.OutputForm.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.exe
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.pdb
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.xml
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.exe
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.xml
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.pdb
+E:\Antonio\Stuff\Visual Basic 2010 Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.exe.config
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.exe.config
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.AddingForm.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.Form1.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.Resources.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.OutputForm.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.vbproj.GenerateResource.Cache
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.exe.config
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\bin\Debug\Files2TextList.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.AddingForm.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.Form1.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.Resources.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.OutputForm.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Files2TextList\Files2TextList\obj\x86\Debug\Files2TextList.vbproj.GenerateResource.Cache
