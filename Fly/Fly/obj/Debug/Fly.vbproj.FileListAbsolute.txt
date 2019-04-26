@@ -1,0 +1,9 @@
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Fly\Fly\bin\Debug\Fly.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Fly\Fly\bin\Debug\Fly.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Fly\Fly\bin\Debug\Fly.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Fly\Fly\obj\Debug\Fly.Form1.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Fly\Fly\obj\Debug\Fly.Resources.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Fly\Fly\obj\Debug\Fly.vbproj.GenerateResource.Cache
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Fly\Fly\obj\Debug\Fly.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Fly\Fly\obj\Debug\Fly.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\Fly\Fly\obj\Debug\Fly.pdb

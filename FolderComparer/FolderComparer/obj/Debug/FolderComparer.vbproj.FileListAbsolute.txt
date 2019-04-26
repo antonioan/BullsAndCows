@@ -1,0 +1,10 @@
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\FolderComparer\FolderComparer\bin\Debug\FolderComparer.exe.config
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\FolderComparer\FolderComparer\bin\Debug\FolderComparer.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\FolderComparer\FolderComparer\bin\Debug\FolderComparer.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\FolderComparer\FolderComparer\bin\Debug\FolderComparer.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\FolderComparer\FolderComparer\obj\Debug\FolderComparer.Form1.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\FolderComparer\FolderComparer\obj\Debug\FolderComparer.Resources.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\FolderComparer\FolderComparer\obj\Debug\FolderComparer.vbproj.GenerateResource.Cache
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\FolderComparer\FolderComparer\obj\Debug\FolderComparer.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\FolderComparer\FolderComparer\obj\Debug\FolderComparer.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic Projects\FolderComparer\FolderComparer\obj\Debug\FolderComparer.pdb
