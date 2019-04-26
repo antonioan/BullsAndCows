@@ -1,0 +1,20 @@
+C:\Users\Family\AppData\Local\Temporary Projects\DeStoor\bin\Debug\DeStoor.exe
+C:\Users\Family\AppData\Local\Temporary Projects\DeStoor\bin\Debug\DeStoor.pdb
+C:\Users\Family\AppData\Local\Temporary Projects\DeStoor\bin\Debug\DeStoor.xml
+C:\Users\Family\AppData\Local\Temporary Projects\DeStoor\obj\x86\Debug\DeStoor.DeStage.resources
+C:\Users\Family\AppData\Local\Temporary Projects\DeStoor\obj\x86\Debug\DeStoor.Form1.resources
+C:\Users\Family\AppData\Local\Temporary Projects\DeStoor\obj\x86\Debug\DeStoor.Resources.resources
+C:\Users\Family\AppData\Local\Temporary Projects\DeStoor\obj\x86\Debug\DeStoor.vbproj.GenerateResource.Cache
+C:\Users\Family\AppData\Local\Temporary Projects\DeStoor\obj\x86\Debug\DeStoor.exe
+C:\Users\Family\AppData\Local\Temporary Projects\DeStoor\obj\x86\Debug\DeStoor.xml
+C:\Users\Family\AppData\Local\Temporary Projects\DeStoor\obj\x86\Debug\DeStoor.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\DeStoor\DeStoor\obj\x86\Debug\DeStoor.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\DeStoor\DeStoor\obj\x86\Debug\DeStoor.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\DeStoor\DeStoor\obj\x86\Debug\DeStoor.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\DeStoor\DeStoor\bin\Debug\DeStoor.exe
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\DeStoor\DeStoor\bin\Debug\DeStoor.pdb
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\DeStoor\DeStoor\bin\Debug\DeStoor.xml
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\DeStoor\DeStoor\obj\x86\Debug\DeStoor.DeStage.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\DeStoor\DeStoor\obj\x86\Debug\DeStoor.Form1.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\DeStoor\DeStoor\obj\x86\Debug\DeStoor.Resources.resources
+E:\Antonio\Stuff\Visual Studio Projects\Visual Basic 2010 Projects\DeStoor\DeStoor\obj\x86\Debug\DeStoor.vbproj.GenerateResource.Cache
