@@ -56,4 +56,18 @@ Made with VB.NET on Visual Studio 2012, June 2012.
 ### Description
 Drag and drop files (or browse), optionally specify a prefix or a suffix to add to the names, then one click generates a text file of the names of all of these files. Used personally to track what songs were newly added to my over-10GB directory of downloaded songs, by saving a snapshot of all files every few months.
 
+## 08 Fly
+Made with VB.NET on Visual Studio 2012, June 2016.
+
+### Description
+Just a fly flying around the screen.
+
+## 09 FolderComparer
+Made with VB.NET on Visual Studio 2012, July 2013.
+
+### Description
+Drag and drop content of two fairly-similar directories. Program outputs list of files found only in directory A, those only in directory B, and those found in both directories.
+Time complexity is terrible for large directories.
+
+
 
