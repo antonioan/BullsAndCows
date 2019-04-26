@@ -8,10 +8,10 @@ To run a project `Example`, run the executable: `Example/Example/bin/debug/Examp
 There's a chance some Microsoft-related software needs to be downloaded, for the programs to run.
 Please update me if you know if this is the case or not.
 
-## 01 Bulls And Cows
+## 01 AlmostExactly
 Made with VB.NET on Visual Studio 2012, March 2012.
 
 ### Description
-[Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows) is a game.
+This is the game [Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows), with additional difficulties and modes.
 In this version of the game, the words Almost and Exactly are used instead of Cows and Bulls, respectively.
 
