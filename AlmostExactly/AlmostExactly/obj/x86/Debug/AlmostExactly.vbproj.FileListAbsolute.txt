@@ -1,0 +1,31 @@
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\bin\Debug\AlmostExactly.exe
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\bin\Debug\AlmostExactly.pdb
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\bin\Debug\AlmostExactly.xml
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\obj\x86\Debug\AlmostExactly.Form1.resources
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\obj\x86\Debug\AlmostExactly.Resources.resources
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\obj\x86\Debug\AlmostExactly.exe
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\obj\x86\Debug\AlmostExactly.xml
+C:\Users\Family\AppData\Local\Temporary Projects\AlmostExactly\obj\x86\Debug\AlmostExactly.pdb
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.exe
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.xml
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.pdb
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\bin\Debug\AlmostExactly.exe
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\bin\Debug\AlmostExactly.pdb
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\bin\Debug\AlmostExactly.xml
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.Form1.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.Resources.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.Splash.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\bin\Debug\AlmostExactly.exe.config
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.FormMain.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.mySettings.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.Stats.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.GiveUpConfirm.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.Over_WINNER.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.Over_GAVEUP.resources
+E:\Antonio\Stuff\Visual Basic 2010 Projects\AlmostExactly\AlmostExactly\obj\x86\Debug\AlmostExactly.HelpConfirm.resources
